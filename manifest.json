@@ -1,0 +1,19 @@
+{
+  "schema": 2,
+  "launcher": {
+    "versionCode": 1,
+    "versionName": "1.0.0",
+    "apkUrl": "https://github.com/evolckov421-ship-it/harvy-rp-cache/releases/download/v1.0/harvy-rp-debug.apk"
+  },
+  "data": {
+    "baseUrl": "https://github.com/evolckov421-ship-it/harvy-rp-cache/releases/download/v1.0/",
+    "extractedSize": 1800000000,
+    "files": [
+      {
+        "name": "cache.zip",
+        "size": 0,
+        "sha256": ""
+      }
+    ]
+  }
+}
